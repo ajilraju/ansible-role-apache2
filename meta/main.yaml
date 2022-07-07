@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: apache2
   author: ajilraju
   description: Apache2 demo
   company: Nothing
