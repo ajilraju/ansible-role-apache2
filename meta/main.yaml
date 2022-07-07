@@ -1,0 +1,14 @@
+galaxy_info:
+  author: ajilraju
+  description: Apache2 demo
+  company: Nothing
+
+  license: MIT
+
+  min_ansible_version: 2.1
+
+
+  galaxy_tags: [webserver, apache2, dev, web]
+
+
+dependencies: []
